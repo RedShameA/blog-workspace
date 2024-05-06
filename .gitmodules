@@ -1,3 +1,3 @@
-[submodule "docs/.vuepress/dist"]
-	path = docs/.vuepress/dist
+[submodule "pages"]
+	path = pages
 	url = https://github.com/RedShameA/blog-pages.git
